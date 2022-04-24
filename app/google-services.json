@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "376177091662",
+    "firebase_url": "https://floodthing-c588b-default-rtdb.firebaseio.com",
+    "project_id": "floodthing-c588b",
+    "storage_bucket": "floodthing-c588b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376177091662:android:8db078cb41ddbc09744f1f",
+        "android_client_info": {
+          "package_name": "com.example.iothack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376177091662-b1l11qfn94qkh6438v2mvrbsi3uiivdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiz3BPbC1lpiDSzEJQBseBXToetjwd2jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376177091662-b1l11qfn94qkh6438v2mvrbsi3uiivdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376177091662:android:32082470e9773efa744f1f",
+        "android_client_info": {
+          "package_name": "com.example.iotthing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376177091662-b1l11qfn94qkh6438v2mvrbsi3uiivdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiz3BPbC1lpiDSzEJQBseBXToetjwd2jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376177091662-b1l11qfn94qkh6438v2mvrbsi3uiivdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
