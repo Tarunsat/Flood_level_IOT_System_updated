@@ -13,7 +13,7 @@ FlowMap is an IoT application that leverages Raspberry Pis to send real-time dat
 
 ## Installation
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/flowmap.git`.
+1. Clone the repository to your local machine.
 2. Set up Firebase for your project and obtain the necessary credentials.
 3. Update the Android app's configuration with your Firebase credentials.
 4. Build and install the Android app on your device or emulator.
